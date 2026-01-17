@@ -1,1 +1,3 @@
+# 📝 Reflection
 
+The industrial visit to Johor Port Berhad was an eye-opening experience that showed me how technology keeps a massive port running 24/7. I learned that modern port management is more than just cranes; it is a complex system that must be fast and secure. A key highlight was seeing how the team uses low-code platforms to build applications quickly, which helps reduce wait times and stress for workers. I also realized that "zero downtime" is essential for a stable economy. This visit motivated me to look beyond just coding and understand how digital systems and security work together to solve real-world problems. It was inspiring to see that the port's success relies on both smart technology and strong teamwork.

@@ -1,1 +1,3 @@
 
+
+Listening to the talk by Ts. Hj. Abdul Alim was very helpful for my future career in technology. I learned about the 60/40 success formula, which means focusing 60% on basic knowledge and 40% on using AI tools. It is essential to understand the Software Development Life Cycle (SDLC) to build high-quality systems. I also realized that "peopleware," or soft skills like teamwork and communication, are just as important as technical skills. To prepare for the industry, I plan to use Agile methods to stay flexible and improve my work based on feedback.

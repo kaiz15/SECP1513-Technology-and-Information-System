@@ -1,1 +1,3 @@
+# 📝 Reflection
 
+Working on the design thinking project with my teammates was a valuable learning experience. It taught me that solving complex problems requires a balance of creativity and structure. I realized that success in computer science is not just about technical skills, but also about the ability to communicate and work well in a team. By practicing the different stages of the design process, I learned how to analyze user needs and turn raw ideas into practical solutions. This project encouraged me to adopt an Agile mindset, where I stay flexible and use feedback to improve my work. Overall, I now feel more confident in my ability to handle real-world challenges by combining logical thinking with effective collaboration.
